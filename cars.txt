@@ -1,0 +1,56 @@
+type: passenger car
+model: Mazda
+power: 220
+engine_type: carburetor
+max_speed: 220
+doors_number: 5
+
+type: passenger car
+model: Chevrolet
+power: 220
+engine_type: carburetor
+max_speed: 230
+doors_number: 5
+
+type: passenger car
+model: Mazda
+power: 220
+engine_type: carburetor
+max_speed: 220
+doors_number: 5
+
+type: passenger car
+model: Chevrolet
+power: 220
+engine_type: carburetor
+max_speed: 230
+doors_number: 5
+
+type: passenger car
+model: Mazda
+power: 220
+engine_type: carburetor
+max_speed: 220
+doors_number: 5
+
+type: passenger car
+model: Chevrolet
+power: 220
+engine_type: carburetor
+max_speed: 230
+doors_number: 5
+
+type: passenger car
+model: Mazda
+power: 220
+engine_type: carburetor
+max_speed: 220
+doors_number: 5
+
+type: passenger car
+model: Chevrolet
+power: 220
+engine_type: carburetor
+max_speed: 230
+doors_number: 5
+
